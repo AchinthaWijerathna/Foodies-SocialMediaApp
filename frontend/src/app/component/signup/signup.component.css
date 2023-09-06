@@ -1,0 +1,10 @@
+.container {
+  background-color:rgb(237, 182, 145);
+  background-repeat: no-repeat;
+  min-height: 100%;max-width:1080px; margin-left:220px
+}
+
+.loginform{
+  padding-top: 1px;
+
+}

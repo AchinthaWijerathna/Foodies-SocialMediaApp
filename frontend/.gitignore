@@ -1,0 +1,61 @@
+# Node.js files
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Compiled output
+dist/
+*.d.ts
+
+# Dependency directories
+.idea/
+.vscode/
+*.code-workspace
+
+# Logs and backups
+*.log
+*.swp
+
+# Environment variables
+.env
+
+# Angular CLI configuration
+angular.json
+.angular-cli.json
+
+# Visual Studio Code settings
+.vscode/
+
+# Compiled JavaScript and TypeScript
+*.js
+*.js.map
+*.ts
+*.tsbuildinfo
+
+# Editor-specific files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Typescript helper files
+*.js
+*.js.map
+
+# Optional lint cache
+.eslintcache
+
+# IDE settings
+.idea/
+
+# User-specific files
+npm-debug.log
+yarn-error.log
+
+# Ignore .angular folder
+.angular/
