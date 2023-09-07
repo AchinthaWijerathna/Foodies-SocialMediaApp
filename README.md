@@ -1,8 +1,11 @@
-# Foodies-SocialMediaApp
+# FOODIES SOCIAL MEDIA APPLICATION (2023)
 
-System main doing get information from users complaining about what they face in their village and cities then we analyze their main problem and select it. then we publish it on web site and call tenders online.
-Using Technologies -
-  > MERN Stack 
-  > Selenium Testing  
-  > Postman API  
-  > AgileSoftwareDevelopment
+Food Connect is a dynamic food app developed using Spring
+Boot and Angular, inspired by Facebook's social media model. It
+brings together food enthusiasts to discover, share, and connect
+over their love for food.
+
+Using technologies
+  Spring Boot  
+  Angular 
+  MongoDB
