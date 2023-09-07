@@ -5,7 +5,4 @@ Boot and Angular, inspired by Facebook's social media model. It
 brings together food enthusiasts to discover, share, and connect
 over their love for food.
 
-Using technologies
-  Spring Boot  
-  Angular 
-  MongoDB
+Using technologies: Spring Boot, Angular, MongoDB
